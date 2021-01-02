@@ -6,3 +6,7 @@ TODO
  * Add full screen as default action.
  * Disable report prompt (it is in a very annoying place).
    - Have the option to either always report support or never ask.
+
+Fixes
+=====
+ * Show future/premier videos without an error "Content not available".
